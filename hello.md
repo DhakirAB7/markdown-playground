@@ -24,7 +24,7 @@ https://github.com/DhakirAB7/markdown-playground
 your local repositiory is located on your computer the remote is on Github.com
 
 **What happens when you fetch?** 
-
+You add changes from the Remote to the local without committing them.
 
 **What happens when you pull changes/commits?**
 Pull request is how users request for changes to be made on the main site. This means that one pulls commits from the remote to the local.
@@ -34,7 +34,7 @@ Pull request is how users request for changes to be made on the main site. This 
 Your commits from your local repository are sent to your remote 
 
 **What is the URL for the Github glossary?**
-
+https://docs.github.com/en/get-started/quickstart/github-glossary
 **Where can you find a list of your commits?**
 
 **What is the URL for documentation on reverting a commit?**
