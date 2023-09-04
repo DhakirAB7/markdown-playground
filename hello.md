@@ -57,9 +57,9 @@ Third Level
 **How do you link to a section in the same or another markdown file?**  
 You can use Multimarkdown
 
-**What are the three possible symbols for indicating an unordered list?**
--, *, +
-**Format the following text into a footnote:**
-Main text: [Alex Wingate went to William and Mary.](1)  
-Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.(1)  
-Bonus: make "William and Mary" a hyperlink to W&M's website. 
+**What are the three possible symbols for indicating an unordered list?**  
+-, *, +  
+**Format the following text into a footnote:**  
+Main text: ![Alex Wingate went to William and Mary.][1]  
+Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.[1]: (need a hyperlink)  
+Bonus: make [William and Mary](https://www.wm.edu/) a hyperlink to W&M's website.
