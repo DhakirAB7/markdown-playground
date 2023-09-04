@@ -42,22 +42,24 @@ https://docs.github.com/en/get-started/quickstart/github-glossary#revert
 **How do you revert a commit?**
 
 ## Git-flavored markdown
-**What is the name of the page or URL in GitHub documentation where there's information on how to format your Markdown for GitHub?**
+**What is the name of the page or URL in GitHub documentation where there's information on how to format your Markdown for GitHub?**  
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 **What precedes a second-level heading in Github markdown?**
 Third Level
 
-**How do you indicate text that has been struckthrough?**
+**How do you indicate text that has been struckthrough?**  
 ~example~
 
-**How do you create a hyperlink in your markdown?**
+**How do you create a hyperlink in your markdown?**  
 [baseball](https://commons.wikimedia.org/wiki/File:Baseball.svg)
 
-**How do you link to a section in the same or another markdown file?**
+**How do you link to a section in the same or another markdown file?**  
+You can use Multimarkdown
 
 **What are the three possible symbols for indicating an unordered list?**
 -, *, +
 **Format the following text into a footnote:**
-Main text: Alex Wingate went to William and Mary.(place footnote here)  
-Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.  
+Main text: [Alex Wingate went to William and Mary.](1)  
+Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.(1)  
 Bonus: make "William and Mary" a hyperlink to W&M's website. 
