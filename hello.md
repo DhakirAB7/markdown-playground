@@ -3,41 +3,41 @@ Hello Indiana!
 ## Instructions
 In this lab, we'll be going through some basic tasks you'll need to do as you manage the GitHub repository for your CollectionBuilder site. The questions below are designed to help you learn and remember what you need to do to perform these tasks, as well as where you can go to look for help. 
 ## Creating your repository and editing files
-**What did you click on to create a new repository in the web interface of Github (i.e., on Github.com)?**
-the "Create a new Repository" Button
-**What is the difference between a private and a publicrepository?** 
+**What did you click on to create a new repository in the web interface of Github (i.e., on Github.com)?**  
+the "Create a new Repository" Button  
+**What is the difference between a private and a public repository?**  
 The private version is only open to those who you provide access. The public repository is open to anyone
 
-**Once your repository has been made and has at least one file, what button do you need to click on the web interface in order to create a new file in your repository?**
+**Once your repository has been made and has at least one file, what button do you need to click on the web interface in order to create a new file in your repository?**  
 the "add a file" button
 
-**Describe the steps you took to clone your repository on Github Desktop**
+**Describe the steps you took to clone your repository on Github Desktop**  
 I clicked on the current repositiory dropdown menu, then you click on the "Add" dropdown button and click on the "clone repository" button.
 
-**What is the title of GitHub documentation?**
+**What is the title of GitHub documentation?**  
 Github Docs
 
-**What is the URL for GitHub documentation on creating your first repository?**
+**What is the URL for GitHub documentation on creating your first repository?**  
 (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
 
-**Where is your local repository versus the remote repository?**
+**Where is your local repository versus the remote repository?**  
 your local repositiory is located on your computer the remote is on Github.com
 
-**What happens when you fetch?** 
+**What happens when you fetch?**  
 You add changes from the Remote to the local without committing them.
 
-**What happens when you pull changes/commits?**
+**What happens when you pull changes/commits?**  
 Pull request is how users request for changes to be made on the main site. This means that one pulls commits from the remote to the local.
-**When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**
+**When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**  
 Fetch, pull, Push.
-**What happens when you push commits from your local repository?**
+**What happens when you push commits from your local repository?**  
 Your commits from your local repository are sent to your remote 
 
-**What is the URL for the Github glossary?**
+**What is the URL for the Github glossary?**  
 https://docs.github.com/en/get-started/quickstart/github-glossary
 **Where can you find a list of your commits?**
 On Github.com go to the main page of the repository, above the file list, click commits.
-**What is the URL for documentation on reverting a commit?**
+**What is the URL for documentation on reverting a commit?**  
 https://docs.github.com/en/get-started/quickstart/github-glossary#revert
 **How do you revert a commit?**
 
