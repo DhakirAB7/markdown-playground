@@ -49,12 +49,14 @@ Third Level
 
 **How do you indicate text that has been struckthrough?**
 ~example~
+
 **How do you create a hyperlink in your markdown?**
 [baseball](https://commons.wikimedia.org/wiki/File:Baseball.svg)
+
 **How do you link to a section in the same or another markdown file?**
 
 **What are the three possible symbols for indicating an unordered list?**
-
+-, *, +
 **Format the following text into a footnote:**
 Main text: Alex Wingate went to William and Mary.(place footnote here)  
 Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.  
