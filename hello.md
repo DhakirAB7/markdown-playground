@@ -45,6 +45,7 @@ https://docs.github.com/en/get-started/quickstart/github-glossary#revert
 **What is the name of the page or URL in GitHub documentation where there's information on how to format your Markdown for GitHub?**
 
 **What precedes a second-level heading in Github markdown?**
+~Third Level~
 
 **How do you indicate text that has been struckthrough?**
 
