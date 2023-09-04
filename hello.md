@@ -52,7 +52,7 @@ Third Level
 ~example~
 
 **How do you create a hyperlink in your markdown?**  
-[baseball](https://commons.wikimedia.org/wiki/File:Baseball.svg)
+You can place the text in block qoutes and then follow that with parantheses encaspulating the link. Here is an example [baseball](https://commons.wikimedia.org/wiki/File:Baseball.svg)
 
 **How do you link to a section in the same or another markdown file?**  
 You can use Multimarkdown
