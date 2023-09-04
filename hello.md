@@ -45,12 +45,12 @@ https://docs.github.com/en/get-started/quickstart/github-glossary#revert
 **What is the name of the page or URL in GitHub documentation where there's information on how to format your Markdown for GitHub?**
 
 **What precedes a second-level heading in Github markdown?**
-~Third Level~
+Third Level
 
 **How do you indicate text that has been struckthrough?**
-
+~example~
 **How do you create a hyperlink in your markdown?**
-
+[baseball](https://commons.wikimedia.org/wiki/File:Baseball.svg)
 **How do you link to a section in the same or another markdown file?**
 
 **What are the three possible symbols for indicating an unordered list?**
