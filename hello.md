@@ -18,7 +18,7 @@ I clicked on the current repositiory dropdown menu, then you click on the "Add" 
 Github Docs
 
 **What is the URL for GitHub documentation on creating your first repository?**
-https://github.com/DhakirAB7/markdown-playground
+(https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop)
 
 **Where is your local repository versus the remote repository?**
 your local repositiory is located on your computer the remote is on Github.com
@@ -36,9 +36,9 @@ Your commits from your local repository are sent to your remote
 **What is the URL for the Github glossary?**
 https://docs.github.com/en/get-started/quickstart/github-glossary
 **Where can you find a list of your commits?**
-
+On Github.com go to the main page of the repository, above the file list, click commits.
 **What is the URL for documentation on reverting a commit?**
-
+https://docs.github.com/en/get-started/quickstart/github-glossary#revert
 **How do you revert a commit?**
 
 ## Git-flavored markdown
