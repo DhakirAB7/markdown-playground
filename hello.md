@@ -39,8 +39,8 @@ https://docs.github.com/en/get-started/quickstart/github-glossary
 On Github.com go to the main page of the repository, above the file list, click commits.
 **What is the URL for documentation on reverting a commit?**  
 https://docs.github.com/en/get-started/quickstart/github-glossary#revert
-**How do you revert a commit?**
-
+**How do you revert a commit?**  
+Go to the File "History" tab and right clickon the commit you want to revert and click "Revert Changes in Commit"
 ## Git-flavored markdown
 **What is the name of the page or URL in GitHub documentation where there's information on how to format your Markdown for GitHub?**  
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
