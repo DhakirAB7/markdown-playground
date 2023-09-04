@@ -27,7 +27,7 @@ your local repositiory is located on your computer the remote is on Github.com
 You add changes from the Remote to the local without committing them.
 
 **What happens when you pull changes/commits?**  
-Pull request is how users request for changes to be made on the main site. This means that one pulls commits from the remote to the local.
+Pull request is how users request for changes to be made on the main site. This means that one pulls commits from the remote to the local.  
 **When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**  
 Fetch, Pull, Push.
 **What happens when you push commits from your local repository?**  
