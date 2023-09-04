@@ -18,15 +18,16 @@ I clicked on the current repositiory dropdown menu, then you click on the "Add" 
 Github Docs
 
 **What is the URL for GitHub documentation on creating your first repository?**
-
+https://github.com/DhakirAB7/markdown-playground
 
 **Where is your local repository versus the remote repository?**
 your local repositiory is located on your computer the remote is on Github.com
 
 **What happens when you fetch?** 
 
-**What happens when you pull changes/commits?**
 
+**What happens when you pull changes/commits?**
+Pull request is how users request for changes to be made on the main site. This means that one pulls commits from the remote to the local.
 **When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**
 
 **What happens when you push commits from your local repository?**
